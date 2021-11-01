@@ -3,3 +3,9 @@ debug.sf.disable_hwc_overlays=1
 
 # IORap
 persist.device_config.runtime_native_boot.iorap_readahead_enable=true
+
+# USB debugging
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.secure=0
+ro.debuggable=1
