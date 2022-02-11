@@ -120,9 +120,6 @@ BOARD_ROOT_EXTRA_SYMLINKS := \
 # Platform
 TARGET_BOARD_PLATFORM := sdm660
 
-# Power
-TARGET_TAP_TO_WAKE_NODE := "/proc/tpd_gesture"
-
 # Properties
 TARGET_ODM_PROP += $(COMMON_PATH)/odm.prop
 TARGET_PRODUCT_PROP += $(COMMON_PATH)/product.prop
