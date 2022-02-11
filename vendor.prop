@@ -143,9 +143,6 @@ ro.config.dha_th_rate=2.3
 ro.config.sdha_apps_bg_max=50
 ro.config.sdha_apps_bg_min=8
 
-# Perf
-ro.vendor.extension_library=libqti-perfd-client.so
-
 # Radio
 persist.radio.multisim.config=dsds
 persist.vendor.radio.apm_sim_not_pwdn=1
