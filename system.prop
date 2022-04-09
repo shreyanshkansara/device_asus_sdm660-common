@@ -37,7 +37,7 @@ vendor.display.disable_scaler=0
 persist.vendor.overlay.izat.optin=rro
 
 # Graphics
-debug.sf.latch_unsignaled=1
+debug.sf.latch_unsignaled=0
 debug.sf.layer_caching_active_layer_timeout_ms=1000
 persist.demo.hdmirotationlock=false
 persist.hwc.enable_vds=1
