@@ -1,2 +1,6 @@
+# Battery Health
+allow system_app sysfs_battery_supply:dir { search };
+allow system_app sysfs_battery_supply:file { read open getattr };
+
 allow system_app sysfs_zram:dir search;
 allow system_app sysfs_zram:file r_file_perms;
