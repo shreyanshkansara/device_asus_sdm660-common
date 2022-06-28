@@ -18,14 +18,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- the padding on the start of the statusbar -->
-    <dimen name="status_bar_padding_start">2dp</dimen>
-
     <!-- Padding between signal cluster and battery icon -->
     <dimen name="signal_cluster_battery_padding">4dp</dimen>
-
-    <!-- Margin on the left side of the carrier text on Keyguard -->
-    <dimen name="keyguard_carrier_text_margin">2dp</dimen>
 
     <!-- Padding on the top of the statusbar on Keyguard -->
     <dimen name="status_bar_header_height_keyguard">25.0dip</dimen>
